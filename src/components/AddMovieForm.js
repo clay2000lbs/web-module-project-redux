@@ -23,6 +23,7 @@ const AddMovieForm = (props) => {
     }
 
     const handleSubmit = (e) => {
+        
     }
 
     const { title, director, genre, metascore, description } = movie;
